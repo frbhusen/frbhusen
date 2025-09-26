@@ -1,18 +1,13 @@
 - 👋 Hi, I’m @frbhusen
 - 👀 I’m interested in :
 - 1) Competitive programming using C++
-  2) Working in Matlab
-  3) Gaming
+  2) Programming using Matlab
+  3) Web development
 - 🌱 I’m currently learning :
 - 1) Matlab
   2) C++
+  3) Back-end programming 
 - 📫 How to reach me :
-- Facebook: https://www.facebook.com/husen.rajb.7
-- Instagram: https://www.instagram.com/hussein_rajab0/
+- Instagram: https://www.instagram.com/husr0/
 - CodeForces: https://codeforces.com/profile/FRB_MESSI_3MK
 - Stack Overflow: https://stackoverflow.com/users/22456248/frb-husen
-
-<!---
-frbhusen/frbhusen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
